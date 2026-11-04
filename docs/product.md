@@ -19,7 +19,7 @@ Her jobs to be done:
 - Base currency PLN; invoices in PLN or EUR (NBP rate stored on issue date).
 - VAT rate chosen per line item (23%, 8%, 5%, 0%), rounded per line.
 - Gapless invoice numbering per user per year (e.g. FV/2026/001).
-- Android-iOS release; code stays multiplatform; using kotling and compose multiplatform.
+- Android and iOS release; Kotlin with Compose Multiplatform shared code.
 - InvoiceFlow is a tracker, not certified accounting software.
 
 ## Success criteria
@@ -54,7 +54,6 @@ Portfolio
 - Partial payments, credit notes, corrections
 - Online payment links
 - Web client
-- iOS release
 
 ## Cut order if time runs short
 1. Recurring invoices
