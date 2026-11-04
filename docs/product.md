@@ -33,7 +33,7 @@ Engineering
 - Core flows covered by automated tests; CI is green.
 
 Portfolio
-- Live backend, installable Android and iOS builds, 2-minute demo video.
+- Live backend, installable Android build (APK), iOS demonstrated on simulator, 2-minute demo video.
 - README with architecture diagram and "key decisions" section.
 
 ## MVP scope (in)
